@@ -1,2 +1,2 @@
 # aralash-python-funksiyalar
-Bu reposda aralash python funksiyalar joylanadi
+Bu reposda aralash python funksiyalar joylanadi.
